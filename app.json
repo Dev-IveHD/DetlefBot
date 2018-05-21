@@ -1,0 +1,8 @@
+{
+  "name": "DetlefBot",
+  "description": "Detlef Bot by Iven de Soost",
+  "repository": "https://github.com/Dev-IveHD/DetlefBot",
+  "keywords": ["heroku"],
+},
+  "image": "heroku/nodejs"
+}
