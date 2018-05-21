@@ -4,5 +4,5 @@
   "repository": "https://github.com/Dev-IveHD/DetlefBot",
   "keywords": ["heroku"],
 },
-  "image": "heroku/nodejs"
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw3NnTkTjnOKyri_0NoEeEd4Nl9Xij4jzn6QoA6_oOV43uxTXVbw"
 }
